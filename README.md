@@ -67,11 +67,11 @@ los que trabajes.
   [OMDB](http://www.omdbapi.com/) (The Open Movie Database)
   o cualquier otra API que encuentres.
 - Para implementar este proyecto debes elegir un framework entre React o Angular.
-- Intenta pensar en un alcance que, considerando su complejidad y eso permita terminar el proyecto en 3 o 4 semanas.
+- Considerando su complejidad se estima un alcance de 3 a 4 sprints.
 
 ## 4. Objetivos de aprendizaje
 
-Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
+Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Ten en cuenta eso al decidir tu estrategia de trabajo.
 
 ### HTML
 
